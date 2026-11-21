@@ -9,11 +9,15 @@
 
 <!-- Subtitle / Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=70&lines=⚡+AI+%26+LLM+Systems+Engineer+%E2%80%A2+High-Performance+Systems+Developer;🚀+Building+production-grade+agentic+systems+%26+low-level+architectures" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=70&lines=⚡+AI+%26+LLM+Systems+Engineer+%E2%80%A2+Full-Stack+Developer;🚀+Building+production-grade+agentic+systems+%26+scalable+software" alt="Typing SVG"/>
 </p>
 
 <!-- Quick Action Badges -->
 <p align="center">
+  <a href="https://sowmiyan.me">
+    <img src="https://img.shields.io/badge/Portfolio-sowmiyan.me-6C47FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="mailto:sowmiyan.btech.ai@gmail.com">
     <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2ea44f?style=for-the-badge" alt="Status"/>
   </a>
@@ -26,7 +30,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/sowmiyan-s">
+  <a href="https://leetcode.com/u/sowmiyan-s/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
@@ -35,87 +39,70 @@
 
 ## 👨‍💻 Executive Summary
 
-Hi, I'm **Sowmiyan S** — an **AI & Systems Software Engineer** specializing in production-grade LLM architectures, real-time edge computer vision, and high-performance native desktop & networking systems.
+Hi, I'm **Sowmiyan S** — an **AI & Systems Engineer**, published author, and speaker. I specialize in production-grade LLM architectures, real-time edge computer vision, and high-performance native software.
 
-With a formal background in **Artificial Intelligence & Data Science (B.Tech)**, I bridge the gap between frontier AI research and resilient, low-latency production engineering. From designing autonomous multi-agent analytical engines and offline-capable enterprise RAG frameworks to engineering wire-speed TCP socket streaming utilities in C# / .NET 8 and native C++20 OSR pipelines.
-
-### 🌟 Core Pillars
-
-- **🤖 Autonomous Multi-Agent & RAG Systems**: Building enterprise agentic workflows with CrewAI, LangChain 0.3, and LiteLLM; designing privacy-first RAG with FAISS vector retrieval, ONNX FastEmbed, and hallucination guardrails.
-- **⚡ High-Performance Systems & Networking**: Developing native desktop utilities and wire-speed transfer pipelines using C# / .NET 8, Avalonia UI, raw multi-threaded TCP/UDP sockets, and Win32 P/Invoke.
-- **👁️ Edge AI & Computer Vision**: Engineering real-time multi-camera industrial compliance platforms with YOLOv8/v11, TensorRT (FP16/INT8), ByteTrack persistent tracking, and React 19 / WebSocket telemetry dashboards.
-- **🌍 Community Leadership**: Founder of **Bound by Code**, mentoring hundreds of aspiring engineers through hands-on technical workshops, hackathons, and open-source projects.
+- 🎓 **Education**: B.Tech in Artificial Intelligence &amp; Data Science
+- 🌐 **Founder**: **Bound by Code** — Mentoring developers through workshops, hackathons, and open technical content
+- 📚 **Author**: *Python for Beginners: Complete Guide &amp; CheatSheet* (Amazon Kindle Edition)
+- 💡 **Innovator**: Officially filed Indian Patent for *Smart Waste Monitoring &amp; Collection Protocol* (2025)
 
 ---
 
 ## 🚀 Featured Production Projects
 
-A showcase of production software demonstrating architecture, systems programming, and AI orchestration.
+Flagship software engineering projects verified from my production portfolio at [sowmiyan.me](https://sowmiyan.me).
 
 <table>
   <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/sowmiyan-s/crewlyze">Crewlyze</a></h3>
-      <p><em>Autonomous Multi-Agent Business Intelligence &amp; Data Engineering Platform</em></p>
-      <p>Modular data-analyst platform powered by LLM-driven multi-agent orchestration. Automates exploratory data analysis (EDA), DuckDB columnar OLAP queries, statistical pattern recognition, and executive-ready charting. Published as both an npm CLI (<code>npx crewlyze</code>) and Python package.</p>
-      <p><strong>Tech Stack:</strong></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,docker,github&theme=dark" alt="Crewlyze Tech Stack"/>
+      <h3>🤖 <a href="https://github.com/sowmiyan-s/crewlyze">CrewLyze</a></h3>
+      <p><em>Autonomous Multi-Agent Business Intelligence &amp; Data Analyst Platform</em></p>
+      <p>Open-source multi-agent data analytics engine powered by CrewAI, FastAPI &amp; LiteLLM. Transforms raw CSV/Excel datasets into executive PDF reports and interactive charts.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,docker&theme=dark" alt="Crewlyze Stack"/>
       </p>
       <p>
-        <code>CrewAI</code> • <code>DuckDB (OLAP)</code> • <code>LiteLLM</code> • <code>Pandas</code> • <code>Scikit-Learn</code> • <code>Uvicorn</code>
-      </p>
-      <p>
-        <a href="https://github.com/sowmiyan-s/crewlyze"><b>Explore Repository →</b></a>
+        <a href="https://github.com/sowmiyan-s/crewlyze"><b>View GitHub Repo →</b></a> &bull;
+        <a href="https://www.npmjs.com/package/crewlyze"><b>NPM Package →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/sowmiyan-s/GUARD-RAG">GUARD-RAG</a></h3>
-      <p><em>Secure Offline-Capable RAG Engine &amp; LLM Guardrails</em></p>
-      <p>Enterprise-ready, privacy-first Retrieval-Augmented Generation framework built as a Python package. Features semantic vector retrieval via FAISS, ONNX-accelerated local FastEmbed embeddings, strict anti-hallucination guardrails, and zero external data leaks.</p>
-      <p><strong>Tech Stack:</strong></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker&theme=dark" alt="GUARD-RAG Tech Stack"/>
+      <p><em>Enterprise Privacy-Preserving Offline RAG Engine</em></p>
+      <p>Offline privacy-first RAG chatbot tool built as a standalone Python package. Enables enterprise document intelligence with zero cloud data leaks, local FastEmbed ONNX embeddings, and FAISS vector retrieval.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker&theme=dark" alt="GUARD-RAG Stack"/>
       </p>
       <p>
-        <code>LangChain 0.3</code> • <code>FAISS Vector DB</code> • <code>FastEmbed (ONNX)</code> • <code>Ollama</code> • <code>Transformers</code> • <code>LLM Guardrails</code>
-      </p>
-      <p>
-        <a href="https://github.com/sowmiyan-s/GUARD-RAG"><b>Explore Repository →</b></a>
+        <a href="https://github.com/sowmiyan-s/GUARD-RAG"><b>View GitHub Repo →</b></a> &bull;
+        <a href="https://pypi.org/project/guard-rag/"><b>PyPI Release →</b></a>
       </p>
     </td>
   </tr>
   <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🦺 <a href="https://github.com/sowmiyan-s/PPE-Detection-and-Management-System">Cerberus AI — PPE Compliance Platform</a></h3>
-      <p><em>Industrial Real-Time Edge Computer Vision &amp; Safety Intelligence</em></p>
-      <p>Enterprise-grade edge AI platform engineered for continuous multi-camera PPE compliance monitoring. Fuses custom-trained YOLOv8/v11 models, TensorRT acceleration, ByteTrack persistent worker tracking, SQLite WAL persistence, and a live React 19 / WebSocket telemetry dashboard.</p>
-      <p><strong>Tech Stack:</strong></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,react,tailwind,sqlite&theme=dark" alt="Cerberus AI Tech Stack"/>
+      <h3>🦺 <a href="https://github.com/sowmiyan-s/PPE-Detection-and-Management-System">Cerberus AI</a></h3>
+      <p><em>Industrial Real-Time Edge Computer Vision &amp; Safety Telemetry</em></p>
+      <p>Enterprise edge vision platform for continuous multi-camera PPE safety compliance monitoring. Integrates custom-trained YOLOv8/v11 models, ByteTrack persistent worker tracking, SQLite WAL persistence, and live React 19 WebSocket telemetry.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,react,tailwind,sqlite&theme=dark" alt="Cerberus AI Stack"/>
       </p>
       <p>
-        <code>YOLOv8 / YOLOv11</code> • <code>TensorRT (FP16/INT8)</code> • <code>ByteTrack</code> • <code>React 19</code> • <code>WebSockets</code> • <code>NVIDIA Jetson</code>
-      </p>
-      <p>
-        <a href="https://github.com/sowmiyan-s/PPE-Detection-and-Management-System"><b>Explore Repository →</b></a>
+        <a href="https://github.com/sowmiyan-s/PPE-Detection-and-Management-System"><b>View GitHub Repo →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/sowmiyan-s/We-Share">We Share</a></h3>
-      <p><em>High-Performance, Local-First File Transfer Utility for Windows &amp; Mobile</em></p>
-      <p>AirDrop-grade offline desktop and mobile web hub engineered for wire-speed transfers. Bypasses the cloud entirely using raw multi-threaded TCP sockets, zero-config UDP broadcast discovery (Port 45678), embedded HTTP 1.1 / SSE Web Portal, and Win32 P/Invoke hotspot provisioning.</p>
-      <p><strong>Tech Stack:</strong></p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite,windows&theme=dark" alt="We Share Tech Stack"/>
+      <h3>🌐 <a href="https://github.com/sowmiyan-s/We-Share">WeShare</a></h3>
+      <p><em>Decentralized P2P Encrypted File Streaming Platform</em></p>
+      <p>High-performance desktop &amp; mobile web utility for wire-speed encrypted file transfers with or without a router. Utilizes raw multi-threaded TCP sockets, local UDP broadcast detection, and WebRTC streaming.</p>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,windows&theme=dark" alt="WeShare Stack"/>
       </p>
       <p>
-        <code>C# / .NET 8</code> • <code>Avalonia UI 11</code> • <code>Multi-Threaded TCP Sockets</code> • <code>UDP Discovery</code> • <code>Win32 P/Invoke</code> • <code>Captive Portal</code>
-      </p>
-      <p>
-        <a href="https://github.com/sowmiyan-s/We-Share"><b>Explore Repository →</b></a>
+        <a href="https://github.com/sowmiyan-s/We-Share"><b>View GitHub Repo →</b></a> &bull;
+        <a href="https://we-share-app.vercel.app"><b>Live Web App →</b></a>
       </p>
     </td>
   </tr>
@@ -123,60 +110,57 @@ A showcase of production software demonstrating architecture, systems programmin
 
 ---
 
-## 🛠️ Battle-Tested Technical Arsenal
+## 🛠️ Technical Skills &amp; Stack
 
-Technologies and frameworks verified through real-world implementation across my production repositories.
-
-### 💻 Core Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,ts,js&theme=dark" alt="Core Languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,cs,html,css&perline=8&theme=dark" alt="Languages"/>
 </p>
-<p>
-  <code>Python</code> • <code>C# (.NET 8)</code> • <code>C++ (C++20 / MSVC)</code> • <code>TypeScript</code> • <code>JavaScript (ES6+)</code> • <code>SQL</code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,react,nextjs,tailwind,vite&perline=8&theme=dark" alt="AI &amp; Web"/>
 </p>
-
-### 🧠 AI, Machine Learning &amp; Computer Vision
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI &amp; Vision"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,sqlite,aws,docker,linux,git&perline=8&theme=dark" alt="Cloud, DB &amp; DevOps"/>
 </p>
-<p>
-  <code>CrewAI (Multi-Agent)</code> • <code>LangChain 0.3</code> • <code>YOLOv8 / YOLOv11</code> • <code>TensorRT (FP16/INT8)</code> • <code>ByteTrack</code> • <code>FAISS Vector DB</code> • <code>FastEmbed (ONNX)</code> • <code>LiteLLM</code> • <code>Ollama</code> • <code>Hugging Face Transformers</code> • <code>Scikit-Learn</code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,vscode,figma,github,vercel,nodejs,npm&perline=8&theme=dark" alt="Tools &amp; Ecosystem"/>
 </p>
 
-### ⚡ Frameworks, Runtimes &amp; UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs,react,tailwind,vite&theme=dark" alt="Frameworks &amp; UI"/>
-</p>
-<p>
-  <code>FastAPI</code> • <code>Avalonia UI 11</code> • <code>React 19</code> • <code>TanStack Start/Router</code> • <code>Tailwind CSS v4</code> • <code>WebSockets</code> • <code>Uvicorn</code> • <code>Node.js</code>
-</p>
+---
 
-### 🗄️ Databases, Cloud &amp; Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,docker,linux,git,github&theme=dark" alt="Databases &amp; DevOps"/>
-</p>
-<p>
-  <code>SQLite (WAL Mode)</code> • <code>DuckDB (Columnar OLAP)</code> • <code>PostgreSQL</code> • <code>Docker &amp; Compose</code> • <code>Linux (JetPack / Ubuntu)</code> • <code>Git &amp; GitHub Actions</code> • <code>Win32 / WinRT APIs</code>
-</p>
+## 🎤 Technical Workshops &amp; Keynotes
 
-### 🛠️ Developer Tools &amp; Testing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="Developer Tools"/>
-</p>
-<p>
-  <code>VS Code</code> • <code>Visual Studio 2022</code> • <code>Postman</code> • <code>PyTest</code> • <code>Inno Setup</code>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🌐 1-Day Workshop: Bring Your Website Online with AI</h3>
+      <p><strong>Speaker &amp; Technical Host:</strong> Sowmiyan S (<em>Bound by Code</em>)</p>
+      <p>An intensive practical workshop guiding <strong>100+ developers</strong> through modern AI vibe coding workflows, autonomous web builders, prompt engineering architectures, and rapid deployment of production web applications without boilerplate.</p>
+      <br/>
+      <a href="https://www.youtube.com/live/tqZO_eIQXJs">
+        <img src="https://img.shields.io/badge/YouTube_Live-Watch_Workshop_Session-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Workshop on YouTube"/>
+      </a>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <a href="https://www.youtube.com/live/tqZO_eIQXJs">
+        <img src="https://img.youtube.com/vi/tqZO_eIQXJs/hqdefault.jpg" width="100%" alt="Workshop Thumbnail" style="border-radius: 8px; border: 1px solid #30363d;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Publications &amp; Intellectual Property
+
+- 📚 **Amazon Published Author**: *Python for Beginners: Complete Guide &amp; CheatSheet* (Kindle Edition, ASIN: B0DJFNG36Y) &bull; [View Book on Amazon](https://www.amazon.in/Python-Beginners-Complete-guide-CheetSheet-ebook/dp/B0DJFNG36Y)
+- 💡 **Indian Patent Filed**: *Smart Waste Monitoring &amp; Collection Protocol* (Official Registry 2025)
+- 📄 **Peer-Reviewed Journal**: *Cyber Threat Analysis &amp; Mitigation Vectors* (Published in IJCRT, ISSN: 2320-2882)
 
 ---
 
 ## 🌐 Community Leadership — Bound by Code
 
-> **Bound by Code** is a developer community initiative dedicated to bridging the gap between theoretical computer science and production software engineering through hands-on AI workshops, hackathons, and open technical content.
-
-- 🏆 **Technical Workshops**: Mentoring developers in Autonomous AI Agents, RAG Architectures, Computer Vision, and Modern Full-Stack Systems.
-- 💡 **Hackathons &amp; Code Jams**: Organizing collaborative build nights, open-source initiatives, and developer networking.
-
-<br/>
+> **Bound by Code** is a tech community initiative dedicated to bridging the gap between theoretical knowledge and real-world software engineering through hands-on AI workshops, hackathons, and open technical content.
 
 <p align="left">
   <a href="https://youtube.com/@bound-by-code">
@@ -196,11 +180,9 @@ Technologies and frameworks verified through real-world implementation across my
 
 ## 💼 Available For Opportunities
 
-Looking for an engineer who can turn complex AI models and low-level system designs into dependable, production-ready software?
-
 | Detail | Specification |
 | :--- | :--- |
-| **Target Roles** | AI/ML Engineer • LLM Systems Engineer • Systems Software Developer • Full-Stack Engineer |
+| **Role Types** | AI/ML Engineer • LLM Systems Engineer • Full-Stack Developer |
 | **Location** | India 🇮🇳 (Open to Remote Worldwide / Hybrid / Relocation) |
 | **Education** | B.Tech in Artificial Intelligence &amp; Data Science |
 | **Availability** | Full-Time Roles • High-Impact Technical Collaborations |
@@ -216,12 +198,12 @@ Looking for an engineer who can turn complex AI models and low-level system desi
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/sowmiyan-s">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://sowmiyan.me">
+    <img src="https://img.shields.io/badge/Portfolio-sowmiyan.me-6C47FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/sowmiyan-s">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://github.com/sowmiyan-s">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
