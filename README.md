@@ -32,22 +32,35 @@
 
 ## 👨‍💻 Executive Summary
 
-Hi, I'm **Sowmiyan S** — an **AI & Software Systems Engineer** specializing in production-grade LLM architectures, agentic pipelines, and scalable full-stack applications.
+Hi, I'm **Sowmiyan S** — an **AI & Software Systems Engineer** specializing in
+production-grade LLM architectures, agentic pipelines, and scalable full-stack
+applications.
 
-With a background in **Artificial Intelligence & Data Science (B.Tech)**, I bridge the gap between frontier AI research and resilient, maintainable production software. I focus on autonomous multi-agent orchestration, offline-capable RAG with enterprise guardrails, computer vision at the edge, and high-performance web systems.
+With a background in **Artificial Intelligence & Data Science (B.Tech)**, I
+bridge the gap between frontier AI research and resilient, maintainable
+production software. I focus on autonomous multi-agent orchestration,
+offline-capable RAG with enterprise guardrails, computer vision at the edge, and
+high-performance web systems.
 
 ### 🌟 Core Competencies
 
-- **🤖 AI & LLM Systems**: Architecting multi-agent workflows with CrewAI, LangChain, and NVIDIA NeMo; building privacy-first RAG pipelines with hallucination guardrails.
-- **⚡ Scalable Full-Stack**: Developing modern, responsive web applications using React, TypeScript, Vite, Tailwind CSS, and cloud-native backends (Supabase, MongoDB, AWS, Docker).
-- **👁️ Computer Vision**: Engineering real-time edge compliance systems using YOLOv8, PyTorch, and ByteTrack multi-object tracking.
-- **🌍 Community Leadership**: Founder of **Bound by Code**, mentoring developers, facilitating technical workshops, and spearheading hackathons.
+- **🤖 AI & LLM Systems**: Architecting multi-agent workflows with CrewAI,
+  LangChain, and NVIDIA NeMo; building privacy-first RAG pipelines with
+  hallucination guardrails.
+- **⚡ Scalable Full-Stack**: Developing modern, responsive web applications
+  using React, TypeScript, Vite, Tailwind CSS, and cloud-native backends
+  (Supabase, MongoDB, AWS, Docker).
+- **👁️ Computer Vision**: Engineering real-time edge compliance systems using
+  YOLOv8, PyTorch, and ByteTrack multi-object tracking.
+- **🌍 Community Leadership**: Founder of **Bound by Code**, mentoring
+  developers, facilitating technical workshops, and spearheading hackathons.
 
 ---
 
 ## 🚀 Featured Projects
 
-High-impact, production-focused engineering projects demonstrating architecture, AI orchestration, and clean implementation.
+High-impact, production-focused engineering projects demonstrating architecture,
+AI orchestration, and clean implementation.
 
 <table>
   <tr>
@@ -116,14 +129,15 @@ High-impact, production-focused engineering projects demonstrating architecture,
 
 ## 🛠️ Technical Arsenal
 
-A categorized breakdown of technologies, frameworks, and developer tooling I use in production.
+A categorized breakdown of technologies, frameworks, and developer tooling I use
+in production.
 
-| Domain | Core Technologies &amp; Tooling |
-| :--- | :--- |
-| **🧠 AI / ML &amp; LLM Systems** | `Python` `PyTorch` `TensorFlow` `LangChain` `CrewAI` `RAG Pipelines` `NVIDIA NeMo` `Ollama` `Hugging Face` `Scikit-Learn` |
-| **💻 Languages &amp; Web Stack** | `TypeScript` `JavaScript` `React` `Tailwind CSS` `Vite` `C++` `Java` `HTML5 / CSS3` |
-| **☁️ Cloud, Databases &amp; DevOps** | `Supabase` `MongoDB` `SQL` `AWS` `Docker` `Linux` `Git` `GitHub Actions` `Vercel` |
-| **📊 Analytics &amp; Tooling** | `Power BI` `Matplotlib` `Seaborn` `Pandas` `NumPy` `Postman` `npm` |
+| Domain                               | Core Technologies &amp; Tooling                                                                                           |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **🧠 AI / ML &amp; LLM Systems**     | `Python` `PyTorch` `TensorFlow` `LangChain` `CrewAI` `RAG Pipelines` `NVIDIA NeMo` `Ollama` `Hugging Face` `Scikit-Learn` |
+| **💻 Languages &amp; Web Stack**     | `TypeScript` `JavaScript` `React` `Tailwind CSS` `Vite` `C++` `Java` `HTML5 / CSS3`                                       |
+| **☁️ Cloud, Databases &amp; DevOps** | `Supabase` `MongoDB` `SQL` `AWS` `Docker` `Linux` `Git` `GitHub Actions` `Vercel`                                         |
+| **📊 Analytics &amp; Tooling**       | `Power BI` `Matplotlib` `Seaborn` `Pandas` `NumPy` `Postman` `npm`                                                        |
 
 <br/>
 
@@ -140,7 +154,56 @@ Curated GitHub metrics and continuous problem-solving consistency.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sowmiyan-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=6C47FF&text_color=E6EDF3" height="165" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=sowmiyan-s&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=6C47FF&currStreakLabel=00F7FF" height="165" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sowmiyan-s&theme=tokyonight" height="180"/>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sowmiyan-s&theme=tokyonight&hide_border=true&background=0d1117&fire=00F7FF&ring=6C47FF&currStreakLabel=00F7FF&sideLabels=8B949E&dates=8B949E" alt="Streak Stats" width="65%"/>
+</p>
+
+<!-- Profile Details Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowmiyan-s&theme=tokyonight" width="100%"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmiyan-s&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00F7FF&line=6C47FF&point=FFD700" width="100%"/>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        CONTRIBUTION SNAKE                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="./assets/header-snake.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sowmiyan-s/sowmiyan-s/main/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="./assets/divider.svg" width="100%"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        LEETCODE VISUALIZATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="./assets/header-leetcode.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sowmiyan-s?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats + Heatmap" width="65%"/>
 </p>
 
 <p align="center">
@@ -153,10 +216,14 @@ Curated GitHub metrics and continuous problem-solving consistency.
 
 ## 🌐 Community Leadership — Bound by Code
 
-> **Bound by Code** is a tech community initiative dedicated to bridging the gap between theoretical knowledge and real-world software engineering through hands-on AI workshops, hackathons, and open technical content.
+> **Bound by Code** is a tech community initiative dedicated to bridging the gap
+> between theoretical knowledge and real-world software engineering through
+> hands-on AI workshops, hackathons, and open technical content.
 
-- 🏆 **Workshops &amp; Contests**: Mentoring next-generation developers in AI/ML, Agentic Workflows, and Web Engineering.
-- 💡 **Open Collaboration**: Organizing hackathons, code jams, and interactive build sessions.
+- 🏆 **Workshops &amp; Contests**: Mentoring next-generation developers in
+  AI/ML, Agentic Workflows, and Web Engineering.
+- 💡 **Open Collaboration**: Organizing hackathons, code jams, and interactive
+  build sessions.
 
 <br/>
 
@@ -178,14 +245,15 @@ Curated GitHub metrics and continuous problem-solving consistency.
 
 ## 💼 Available For Opportunities
 
-Looking for an engineer who can translate complex AI research into dependable, production-ready software?
+Looking for an engineer who can translate complex AI research into dependable,
+production-ready software?
 
-| Detail | Specification |
-| :--- | :--- |
-| **Role Types** | AI/ML Engineer • LLM Systems Engineer • Full-Stack Developer |
-| **Location** | India 🇮🇳 (Open to Remote Worldwide / Hybrid / Relocation) |
-| **Education** | B.Tech in Artificial Intelligence &amp; Data Science |
-| **Availability** | Full-Time Roles • High-Impact Technical Collaborations |
+| Detail           | Specification                                                |
+| :--------------- | :----------------------------------------------------------- |
+| **Role Types**   | AI/ML Engineer • LLM Systems Engineer • Full-Stack Developer |
+| **Location**     | India 🇮🇳 (Open to Remote Worldwide / Hybrid / Relocation)    |
+| **Education**    | B.Tech in Artificial Intelligence &amp; Data Science         |
+| **Availability** | Full-Time Roles • High-Impact Technical Collaborations       |
 
 <br/>
 
