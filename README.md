@@ -37,20 +37,26 @@
 
 ---
 
-## 👨‍💻 Executive Summary
 
-Hi, I'm **Sowmiyan S** — an **AI & Systems Engineer**, published author, and speaker. I specialize in production-grade LLM architectures, real-time edge computer vision, and high-performance native software.
+## 👨‍💻 About Me
 
-- 🎓 **Education**: B.Tech in Artificial Intelligence &amp; Data Science
-- 🌐 **Founder**: **Bound by Code** — Mentoring developers through workshops, hackathons, and open technical content
-- 📚 **Author**: *Python for Beginners: Complete Guide &amp; CheatSheet* (Amazon Kindle Edition)
-- 💡 **Innovator**: Officially filed Indian Patent for *Smart Waste Monitoring &amp; Collection Protocol* (2025)
+an **AI & Systems Software Engineer** building production-grade LLM
+architectures, real-time edge computer vision, and high-performance native
+software.
+
+- 🤖 **Frontier AI**: Architecting autonomous multi-agent pipelines with CrewAI,
+  LangChain, and privacy-first local RAG systems.
+- ⚡ **Systems & Vision**: Engineering edge computer vision with YOLOv8/TensorRT
+  and low-level networking in C# / .NET & C++.
+- 🌐 **Community**: Founder of **Bound by Code**, building open-source tools and
+  empowering developers.
 
 ---
 
 ## 🚀 Featured Production Projects
 
-Flagship software engineering projects verified from my production portfolio at [sowmiyan.me](https://sowmiyan.me).
+Flagship software engineering projects verified from my production portfolio at
+[sowmiyan.me](https://sowmiyan.me).
 
 <table>
   <!-- ROW 1 -->
@@ -127,40 +133,11 @@ Flagship software engineering projects verified from my production portfolio at 
 
 ---
 
-## 🎤 Technical Workshops &amp; Keynotes
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🌐 1-Day Workshop: Bring Your Website Online with AI</h3>
-      <p><strong>Speaker &amp; Technical Host:</strong> Sowmiyan S (<em>Bound by Code</em>)</p>
-      <p>An intensive practical workshop guiding <strong>100+ developers</strong> through modern AI vibe coding workflows, autonomous web builders, prompt engineering architectures, and rapid deployment of production web applications without boilerplate.</p>
-      <br/>
-      <a href="https://www.youtube.com/live/tqZO_eIQXJs">
-        <img src="https://img.shields.io/badge/YouTube_Live-Watch_Workshop_Session-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Workshop on YouTube"/>
-      </a>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <a href="https://www.youtube.com/live/tqZO_eIQXJs">
-        <img src="https://img.youtube.com/vi/tqZO_eIQXJs/hqdefault.jpg" width="100%" alt="Workshop Thumbnail" style="border-radius: 8px; border: 1px solid #30363d;"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Publications &amp; Intellectual Property
-
-- 📚 **Amazon Published Author**: *Python for Beginners: Complete Guide &amp; CheatSheet* (Kindle Edition, ASIN: B0DJFNG36Y) &bull; [View Book on Amazon](https://www.amazon.in/Python-Beginners-Complete-guide-CheetSheet-ebook/dp/B0DJFNG36Y)
-- 💡 **Indian Patent Filed**: *Smart Waste Monitoring &amp; Collection Protocol* (Official Registry 2025)
-- 📄 **Peer-Reviewed Journal**: *Cyber Threat Analysis &amp; Mitigation Vectors* (Published in IJCRT, ISSN: 2320-2882)
-
----
-
 ## 🌐 Community Leadership — Bound by Code
 
-> **Bound by Code** is a tech community initiative dedicated to bridging the gap between theoretical knowledge and real-world software engineering through hands-on AI workshops, hackathons, and open technical content.
+> **Bound by Code** is a tech community initiative dedicated to bridging the gap
+> between theoretical knowledge and real-world software engineering through
+> hands-on AI workshops, hackathons, and open technical content.
 
 <p align="left">
   <a href="https://youtube.com/@bound-by-code">
@@ -178,16 +155,8 @@ Flagship software engineering projects verified from my production portfolio at 
 
 ---
 
-## 💼 Available For Opportunities
 
-| Detail | Specification |
-| :--- | :--- |
-| **Role Types** | AI/ML Engineer • LLM Systems Engineer • Full-Stack Developer |
-| **Location** | India 🇮🇳 (Open to Remote Worldwide / Hybrid / Relocation) |
-| **Education** | B.Tech in Artificial Intelligence &amp; Data Science |
-| **Availability** | Full-Time Roles • High-Impact Technical Collaborations |
-
-<br/>
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:sowmiyan.btech.ai@gmail.com">
